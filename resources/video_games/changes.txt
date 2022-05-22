@@ -61,3 +61,12 @@ Added secret dog ending
 Players can no longer do that speedrunning trick that saves time
 Added Alf (in pog form)
 Delayed game due to Miyamoto quote
+Removed Herobrine
+Removed all refrences of the British
+Now with new Funky Mode
+Accessibility: Added Braille reader support for blind users
+Accessibility: Removed numbers, they are replaced by "zero", "one", "some", and "a lot"
+Added farting and burping noise detection for the in-game voice chat
+The cake, however, is still a lie
+Now compatible with Samsung smart fridges
+The game now automatically notifies the police in your area for each confirmed kill.
