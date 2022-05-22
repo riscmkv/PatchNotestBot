@@ -8,7 +8,8 @@
 #
 # to you string. This will allow only one to be added per tweet
 
-You can now have sex in-game
+You can now have sex in-game--exclusive_group=<Sex>
+Removed sex --exclusive_group=<Sex>
 New competitive fishing minigame (with permadeath)
 Added Twitch Integration
 New Battle Royale mode
@@ -34,3 +35,20 @@ Look for XP codes on the back of Crown Prince Canned Sardines © tins!
 Game is no longer available in France & Quebec
 Accessibility: Added Gaelic, Ixcatec, Basque, and Belarusian subtitles
 Accessibility: Removed color blind mode
+Added NFT support
+Added New Funky Mode
+Added VR support
+Added Walter White as a playable character 
+Added Among Us intergration
+Removed Herobrine
+Removed British people
+Featuring Dante from the Devil May Cry series
+Now compatible with Windows 98
+Re-added Hot Coffee minigame
+Final boss now does emotional damage
+Throwing your controller against the wall now wins you the game
+Removed overflow error when players are doing things
+Updated localization files
+Removed Mario as a playable character
+Added Battle Royale mode
+Games deletes itself if you die
