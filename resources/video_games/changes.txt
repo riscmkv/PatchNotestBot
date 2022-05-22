@@ -36,3 +36,9 @@ Accessibility: Added Gaelic, Ixcatec, Basque, and Belarusian subtitles
 Accessibility: Removed color blind mode
 Removed Herobrine
 Now with new Funky Mode
+Accessibility: Added Braille reader support for blind users
+Accessibility: Removed numbers, they are replaced by "zero", "one", "some", and "a lot"
+Added farting and burping noise detection for the in-game voice chat
+The cake, however, is still a lie
+Now compatible with Samsung smart fridges
+The game now automatically notifies the police in your area for each confirmed kill.
