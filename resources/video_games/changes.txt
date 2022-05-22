@@ -35,6 +35,7 @@ Game is no longer available in France & Quebec
 Accessibility: Added Gaelic, Ixcatec, Basque, and Belarusian subtitles
 Accessibility: Removed color blind mode
 Removed Herobrine
+Removed all refrences of the British
 Now with new Funky Mode
 Accessibility: Added Braille reader support for blind users
 Accessibility: Removed numbers, they are replaced by "zero", "one", "some", and "a lot"
