@@ -60,3 +60,4 @@ Added 50% damage penalty to French players
 Added secret dog ending
 Players can no longer do that speedrunning trick that saves time
 Added Alf (in pog form)
+Delayed game due to Miyamoto quote
