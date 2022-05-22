@@ -34,6 +34,8 @@ Look for XP codes on the back of Crown Prince Canned Sardines © tins!
 Game is no longer available in France & Quebec
 Accessibility: Added Gaelic, Ixcatec, Basque, and Belarusian subtitles
 Accessibility: Removed color blind mode
+Removed Herobrine
+Now with new Funky Mode
 Accessibility: Added Braille reader support for blind users
 Accessibility: Removed numbers, they are replaced by "zero", "one", "some", and "a lot"
 Added farting and burping noise detection for the in-game voice chat
