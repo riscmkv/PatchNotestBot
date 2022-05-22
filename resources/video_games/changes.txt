@@ -1,0 +1,36 @@
+# video_games changes.txt
+#
+# To make multiple change strings mutually exclusive, that is only
+# one of the strings in the group can be posted per tweet, add them
+# to the same exclusive group by adding:
+#
+#   --exclusive_group=<YOUR GROUP NAME HERE>
+#
+# to you string. This will allow only one to be added per tweet
+
+You can now have sex in-game
+New competitive fishing minigame (with permadeath)
+Added Twitch Integration
+New Battle Royale mode
+New difficulty level: Ultra-Nightmare --exclusive_group=difficulty
+New difficulty level: Very Easy --exclusive_group=difficulty
+Now requires Games for Windows Live (GFWL)
+Added Macrotransactions
+Added Microsoft excel integration
+Maynard James Keenan now makes an in-game appearance
+Heelys are now an unlockable item
+Fixed bug where female players have 79 health for every 100 health male players have
+Ben Shapiro & Dennis Prager are now unlockable characters
+If you die in game, your cat dies in real life
+2004 Dodge Caravan © now an unlockable vehicle
+Added hyperrealistic gore
+Now canonically part of the half-life universe
+Added pog emote
+Added real time farming strategy minigame
+Game is now both Kosher & Halal (but no longer vegan)
+Now compatible with most blood glucose monitors
+Now supports the Game Boy Pedisedate
+Look for XP codes on the back of Crown Prince Canned Sardines © tins!
+Game is no longer available in France & Quebec
+Accessibility: Added Gaelic, Ixcatec, Basque, and Belarusian subtitles
+Accessibility: Removed color blind mode

@@ -1,0 +1,3 @@
+[submodule "EZTwitterPy"]
+	path = EZTwitterPy
+	url = https://github.com/riscmkv/EZTwitterPy
