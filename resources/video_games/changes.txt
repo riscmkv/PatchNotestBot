@@ -47,8 +47,16 @@ Now compatible with Windows 98
 Re-added Hot Coffee minigame
 Final boss now does emotional damage
 Throwing your controller against the wall now wins you the game
-Removed overflow error when players are doing things
+Fixed overflow error when players are doing things
 Updated localization files
 Removed Mario as a playable character
 Added Battle Royale mode
 Games deletes itself if you die
+New pachinko minigame
+Now rated M for graphic nudity and violence
+Fixed bugs
+Removed easy mode
+Added 50% damage penalty to French players
+Added secret dog ending
+Players can no longer do that speedrunning trick that saves time
+Added Alf (in pog form)
