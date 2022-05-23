@@ -62,7 +62,7 @@ Players can no longer do that speedrunning trick that saves time
 Added Alf (in pog form)
 Delayed game due to Miyamoto quote
 Removed Herobrine
-Removed all refrences of the British
+Removed all references of the British
 Now with new Funky Mode
 Accessibility: Added Braille reader support for blind users
 Accessibility: Removed numbers, they are replaced by "zero", "one", "some", and "a lot"
@@ -73,4 +73,8 @@ The game now automatically notifies the police in your area for each confirmed k
 You can now pet the dog
 Added Master Chief from the Halo series as a companion
 Added Gordon Freeman from the Half Life series as a companion
-Fixed bug where players in France didn't die immediately 
+Fixed bug where players in France didn't die immediately
+Reset every Steam achievements
+Now includes advertisements from our partners between levels
+Added Nukes
+Added a pop-up to remind the players that they suck whenever they die
