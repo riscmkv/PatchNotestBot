@@ -86,7 +86,7 @@ def gen_change_list(changes_path):
 
     return change_list
 
-def pick_n_strings(change_list, n_changes=3):
+def pick_n_strings(change_list, n_changes=6):
     strings_chosen = []
     exclusive_groups = []
     n_chosen = 0
