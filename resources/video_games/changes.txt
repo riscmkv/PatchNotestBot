@@ -113,3 +113,5 @@ Stopped children and babies from joining you on your adventures
 Allowed dwarves to get married
 Giraffes are now trainable for war
 Animal breeding is prevented if animals aren't "willing to marry"
+Added Family Guy cutaway gags
+Added ability to cancel your opponents on twitter
