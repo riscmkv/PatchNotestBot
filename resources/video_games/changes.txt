@@ -15,7 +15,9 @@ Added Twitch Integration
 New Battle Royale mode
 New difficulty level: Ultra-Nightmare --exclusive_group=difficulty
 New difficulty level: Very Easy --exclusive_group=difficulty
+New difficulty level: Asian --exclusive_group=difficulty
 Now requires Games for Windows Live (GFWL)
+Now requires Rockstar Games Launcher (RGL)
 Added Macrotransactions
 Added Microsoft excel integration
 Maynard James Keenan now makes an in-game appearance
@@ -57,6 +59,7 @@ Now rated M for graphic nudity and violence
 Fixed bugs
 Removed easy mode
 Added 50% damage penalty to French players
+Added +50% Invisibility to Vietnamese players
 Added secret dog ending
 Players can no longer do that speedrunning trick that saves time
 Added Alf (in pog form)
@@ -77,6 +80,7 @@ Fixed bug where players in France didn't die immediately
 Reset every Steam achievements
 Now includes advertisements from our partners between levels
 Added Nukes
+Added 12 new songs by C418
 Added a pop-up to remind the players that they suck whenever they die
 Increases the chances of a random chimp event by 26.8%
 New sounds for when the player interacts with Obama
