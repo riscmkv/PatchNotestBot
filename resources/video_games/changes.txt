@@ -84,3 +84,78 @@ Automatically screenshots and reuploads a random NFT every 20 seconds
 You can now die by Snu Snu.
 Introducing: Taxes
 Added The Skeletor
+Fixed an issue so that NPCs now vomit at acceptable levels
+It is no longer possible to 'Try for Baby' with the Grim Reaper
+"Become enemies with child" wish no longer appears
+Now Available on GameBoy Color.
+Random Crit Chance increased --exclusive_group=crithit
+Random Crit removed --exclusive_group=crithit
+Added Rocket Jumping
+Now featuring the Gabe Newell Kill Announcer
+Added the Heavy Update
+Removed support for devices over one year old
+Added NES support
+Added bugs
+Disabled access for new users
+New insta-ban for not saying GG after a match
+Microtransactions can now be paid with vbucks
+Players are now limited to 1hr of playtime a day (please go outside)
+Added NPC "Maneater Mildred"
+Players with an anime PFP are instantly banned --exclusive_group=animepfp
+Players with an anime PFP recieve double XP --exclusive_group=animepfp
+Some physical copies are laced with Anthrax (manufacturing accident)
+New map: gm_construct --exclusive_group=newgmmap
+New map: gm_7eleven --exclusive_group=newgmmap
+New map: gm_flatgrass --exclusive_group=newgmmap
+New map: Final Destination
+New Map: 2Fort --exclusive_group=newgsrcmap
+New Map: de_dust2 --exclusive_group=newgsrcmap
+New Map: Blood Gulch
+Added the entirety of Brazil
+New platform supported: ti-84
+New platform supported: Ouya
+New feature: clutch or kick
+Game now deletes itself if NFTs are detected on your PC
+Added jumpscares
+New gamemode: boys vs girls
+Game now detects speedrunners and ruins their RNG
+Now partnering with coolmathgames.com
+Added Mexico, but only the top half
+Game now does not save data if you are over 45 years old
+Fixed Ronald Reagan's spawn location
+Replaced entire games audio library with Postal Dude voicelines
+"George Washington" enemy added
+fixed babies spontaneously combusting
+you can now commit war crimes
+added “racist” as character trait
+removed herobrien
+added steering wheel support
+added “braille” as a selectable language
+removed weekly garbage pickup (changed to monthly)
+Glue bottles can now be drank from
+Added guns
+Removed violence
+Water now has a 1% chance to have lead poisoning
+Friends and family will no longer worry about you for playing twelve hours a day
+Fixed a Geneva Convention violation
+Added new bugs so we can fix them on a later update
+Now requires biometric scan to determine if user's body is ready
+Added Twitter API integration
+Added new slider for breast sizes
+Added achievement: [TypeError: ‘Nonetype’ object is not iterable]
+Removed racially insensitive pinup pen pineapple reference
+Added optional “snuggle time” mini game
+Decreased probability of Random Chimp Event by 6.3% based on user feedback
+Added new Art Deco style character models
+Added alternative “Not poggers” ending as based on user feedback
+Presence of 12 gauge shotgun increased
+Increased error message specificity and crash frequency
+Switched to Unreal Engine for photorealistic hair support
+Removed esoteric references to the number 42
+Incorporated orphanage DLC as a new free level
+Added hyper realistic toothbrush
+Changed present emoticons from unicode code point to ASCII
+Added new “protagonist” gender option
+Decreased wonton violence in tutorial section
+Shortened length of game proportional to player skill level
+Removed language support for English

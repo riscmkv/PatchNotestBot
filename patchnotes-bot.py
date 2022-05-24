@@ -3,9 +3,14 @@ import argparse
 import random
 import glob
 import os
+from datetime import datetime
 import EZTwitterPy.EZTwitterPy as ez
 
 newline_chars = "\r\n"
+
+def choose_random_from_list(lst):
+    random.seed(datetime.now())
+    return lst[random.randint(0, len(lst)-1)]
 
 class Change:
     string = None
@@ -86,12 +91,12 @@ def gen_change_list(changes_path):
 
     return change_list
 
-def pick_n_strings(change_list, n_changes=6):
+def pick_n_strings(change_list, n_changes=3):
     strings_chosen = []
     exclusive_groups = []
     n_chosen = 0
     while n_chosen < n_changes:
-        potential_change = random.choice(change_list)
+        potential_change = choose_random_from_list(change_list)
 
         # Check if we have an exclusive groups
         if 'exclusive_group' in potential_change.args:
@@ -129,7 +134,7 @@ def gen_tweet(sw_type="video_games"):
     pwd = os.getcwd()
     titles = glob.glob(pwd + "/resources/" + sw_type + "/*")
     titles.remove(pwd + "/resources/" + sw_type + "/changes.txt")
-    title_img = random.choice(titles)
+    title_img = choose_random_from_list(titles)
     title_name = title_img.split("/")[-1].split(".")[0]
 
     changes = gen_change_list(pwd + "/resources/" + sw_type + "/changes.txt")
