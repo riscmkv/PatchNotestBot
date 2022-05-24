@@ -169,3 +169,14 @@ Severely nerfed killing abilities of bees, no more wolrd-wide carnage when you g
 You no longer start lit on fire
 Fixed a rare bug when clothes wouldn't render for some reason, leaving your opponents naked
 The game now requires administrator permissions and camera access to monitor you 24/7 to make sure you don't Google the codes
+Solid Snake no longer keeps you waiting
+Added the konami code
+Added IF Prototype LQ-84i from Metal Gear Rising Revengeance as a companion
+Replaced all songs in the soundtrack with the Bad Piggies theme
+Replaced all voicelines with "Bear Seek Seek Lest"
+Game now runs on GoldSrc
+Deleted the entirety of Florida from the game files
+Deleted the entirety of France from the game files
+Added a surprise encounter with Patches
+You can now hire Saul Goodman as a lawyer
+Added the V.A.T.S. system from the Fallout series
