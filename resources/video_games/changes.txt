@@ -94,3 +94,10 @@ Severely nerfed killing abilities of bees, no more wolrd-wide carnage when you g
 You no longer start lit on fire
 Fixed a rare bug when clothes wouldn't render for some reason, leaving your opponents naked
 The game now requires administrator permissions and camera access to monitor you 24/7 to make sure you don't Google the codes
+Added Machine Gun, Jetpack, and Machine Gun Jetpack
+Removed a highly explicit easter egg (what the hell, Jerry?)
+Rolled back localization files due to system-bricking bug
+Probably created a thousand obscure bugs
+Fixed AI audio detection issue, dogs are now actually afraid of vacuum cleaners
+All sports can now be played in minigames except Golf
+Beans no longer refill 1000% more health each time you eat them
