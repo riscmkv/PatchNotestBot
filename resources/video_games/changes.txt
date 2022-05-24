@@ -104,7 +104,7 @@ Animals no longer do incest
 Added AK-47 to starting inventory
 Made strangulation take less time
 Fixed player corpses not spewing their contents when destroyed
-Fixes an issue where in certain circumstances gravity ceased to apply to the player’s horse.
+Fixed an issue where in certain circumstances gravity ceased to apply to the player’s horse.
 Toilets are no longer death traps
 Butlers can no longer get stuck inside an aquarium
 Cleaned up the bear situation
