@@ -94,3 +94,22 @@ Severely nerfed killing abilities of bees, no more wolrd-wide carnage when you g
 You no longer start lit on fire
 Fixed a rare bug when clothes wouldn't render for some reason, leaving your opponents naked
 The game now requires administrator permissions and camera access to monitor you 24/7 to make sure you don't Google the codes
+Verification can now required to respawn
+Prevented a case where toddlers were allowed to escape a lot and wander freely.
+The Murphy Bed has been made less lethal.
+Fixed a Geneva Convention violation
+Now requires YouTube Premium to play
+Axe murder re-added
+Animals no longer do incest
+Added AK-47 to starting inventory
+Made strangulation take less time
+Fixed player corpses not spewing their contents when destroyed
+Fixes an issue where in certain circumstances gravity ceased to apply to the player’s horse.
+Toilets are no longer death traps
+Butlers can no longer get stuck inside an aquarium
+Cleaned up the bear situation
+Fixed a bug where animals could rent rooms
+Stopped children and babies from joining you on your adventures
+Allowed dwarves to get married
+Giraffe is trainable for war
+Animal breeding is prevented if animals aren't "willing to marry"
