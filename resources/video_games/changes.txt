@@ -111,5 +111,5 @@ Cleaned up the bear situation
 Fixed a bug where animals could rent rooms
 Stopped children and babies from joining you on your adventures
 Allowed dwarves to get married
-Giraffe is trainable for war
+Giraffes are now trainable for war
 Animal breeding is prevented if animals aren't "willing to marry"
