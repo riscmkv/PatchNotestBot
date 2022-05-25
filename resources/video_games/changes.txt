@@ -78,7 +78,7 @@ Reset every Steam achievements
 Now includes advertisements from our partners between levels
 Added Nukes
 Added a pop-up to remind the players that they suck whenever they die
-Increases the chances of a random chimp event by 26.8%
+Increases the chances of a random chimp event by 26.8%--exclusive_group=chimps
 New sounds for when the player interacts with Obama
 Automatically screenshots and reuploads a random NFT every 20 seconds
 You can now die by Snu Snu.
@@ -188,3 +188,14 @@ Deleted the entirety of France from the game files
 Added a surprise encounter with Patches
 You can now hire Saul Goodman as a lawyer
 Added the V.A.T.S. system from the Fallout series
+Decreased the chances of predictable chimps, as they were too predictable --exclusive_group=chimps
+Now uses all of the memory avaliable
+Now has a chance for an infinite loading screen, of which you can't exit
+If the game detects you're speedrunning, stops you from doing so
+Healing effects no longer work if you have less than 80% of your total hp
+Kill streaks now automatically activate when near a group of civilians
+Accessibility: Option to disable audio entirely for deaf people
+halves your FPS for each kill
+New map: Rainbow Road
+Turtles can now die by paper straws
+Now plays Bad Apple
