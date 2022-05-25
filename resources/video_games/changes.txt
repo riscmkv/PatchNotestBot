@@ -188,6 +188,7 @@ Deleted the entirety of France from the game files
 Added a surprise encounter with Patches
 You can now hire Saul Goodman as a lawyer
 Added the V.A.T.S. system from the Fallout series
+<<<<<<< HEAD
 Decreased the chances of predictable chimps, as they were too predictable --exclusive_group=chimps
 Now uses all of the memory avaliable
 Now has a chance for an infinite loading screen, of which you can't exit
@@ -199,3 +200,11 @@ halves your FPS for each kill
 New map: Rainbow Road
 Turtles can now die by paper straws
 Now plays Bad Apple
+=======
+Fixed a bug where players could get out of bounds by bribing the developers  --exclusive_group=out_of_bounds
+Players can now get out of bounds if they ask nicely --exclusive_group=out_of_bounds
+Added Jeff Bezos as a playable character
+Added Microsoft Clippy as a playable character
+Removed all instances of prime numbers from the game
+Added the 10th dentist as a miniboss
+>>>>>>> f9e54bd42be3b2f14dc99e85cc825a4be808f574
