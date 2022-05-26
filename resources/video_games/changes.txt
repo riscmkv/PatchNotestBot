@@ -35,8 +35,8 @@ Look for XP codes on the back of Crown Prince Canned Sardines © tins!
 Game is no longer available in France & Quebec
 Accessibility: Added Gaelic, Ixcatec, Basque, and Belarusian subtitles
 Accessibility: Removed color blind mode
-Added NFT support
-Added New Funky Mode
+Added NFT support --exclusive_group=nft
+Added New Funky Mode --exclusive_group=funkymode
 Added VR support
 Added Walter White as a playable character 
 Added Among Us intergration
@@ -63,8 +63,8 @@ Added Alf (in pog form)
 Delayed game due to Miyamoto quote
 Removed Herobrine
 Removed all references of the British
-Now with new Funky Mode
-Accessibility: Added Braille reader support for blind users
+Now with new Funky Mode --exclusive_group=funkymode
+Accessibility: Added Braille reader support for blind users --exclusive_group=braille
 Accessibility: Removed numbers, they are replaced by "zero", "one", "some", and "a lot"
 Added farting and burping noise detection for the in-game voice chat
 The cake, however, is still a lie
@@ -74,11 +74,11 @@ You can now pet the dog
 Added Master Chief from the Halo series as a companion
 Added Gordon Freeman from the Half Life series as a companion
 Fixed bug where players in France didn't die immediately
-Reset every Steam achievements
+Reset all Steam achievements
 Now includes advertisements from our partners between levels
 Added Nukes
 Added a pop-up to remind the players that they suck whenever they die
-Increases the chances of a random chimp event by 26.8%--exclusive_group=chimps
+Increases the chances of a random chimp event by 26.8% --exclusive_group=chimpevent
 New sounds for when the player interacts with Obama
 Automatically screenshots and reuploads a random NFT every 20 seconds
 You can now die by Snu Snu.
@@ -98,7 +98,7 @@ Added NES support
 Added bugs
 Disabled access for new users
 New insta-ban for not saying GG after a match
-Microtransactions can now be paid with vbucks
+Microtransactions can now be paid with V-Bucks
 Players are now limited to 1hr of playtime a day (please go outside)
 Added NPC "Maneater Mildred"
 Players with an anime PFP are instantly banned --exclusive_group=animepfp
@@ -115,7 +115,7 @@ Added the entirety of Brazil
 New platform supported: ti-84
 New platform supported: Ouya
 New feature: clutch or kick
-Game now deletes itself if NFTs are detected on your PC
+Game now deletes itself if NFTs are detected on your PC --exclusive_group=nft
 Added jumpscares
 New gamemode: boys vs girls
 Game now detects speedrunners and ruins their RNG
@@ -130,7 +130,7 @@ you can now commit war crimes
 added “racist” as character trait
 removed herobrien
 added steering wheel support
-added “braille” as a selectable language
+added “braille” as a selectable language --exclusive_group=braille
 removed weekly garbage pickup (changed to monthly)
 Glue bottles can now be drank from
 Added guns
@@ -145,7 +145,7 @@ Added new slider for breast sizes
 Added achievement: [TypeError: ‘Nonetype’ object is not iterable]
 Removed racially insensitive pinup pen pineapple reference
 Added optional “snuggle time” mini game
-Decreased probability of Random Chimp Event by 6.3% based on user feedback
+Decreased probability of Random Chimp Event by 6.3% based on user feedback --exclusive_group=chimpevent
 Added new Art Deco style character models
 Added alternative “Not poggers” ending as based on user feedback
 Presence of 12 gauge shotgun increased
@@ -165,30 +165,29 @@ Automatically restarts your computer whenever you die
 Your Account ID will now be connected to you, dying in-game will kill you in real life
 A match can not be won by pressing Ctrl+Win+Alt+69 anymore (how did that slide in?)
 When trading, you now get what you traded for
-Severely nerfed killing abilities of bees, no more wolrd-wide carnage when you get too close to a beehive
+Severely nerfed killing abilities of bees, no more world-wide carnage when you get too close to a beehive
 You no longer start lit on fire
 Fixed a rare bug when clothes wouldn't render for some reason, leaving your opponents naked
 The game now requires administrator permissions and camera access to monitor you 24/7 to make sure you don't Google the codes
-Verification can now required to respawn
+Two-Factor Authentication now required to respawn --exclusive_group=verification
+"I am not a bot" verification now required to respawn --exclusive_group=verification
 Prevented a case where toddlers were allowed to escape a lot and wander freely.
 The Murphy Bed has been made less lethal.
-Fixed a Geneva Convention violation
 Added AK-47 to starting inventory
 Made strangulation take less time
 Fixed an issue where in certain circumstances gravity ceased to apply to the player’s horse.
 Added Family Guy cutaway gags
-Added ability to cancel your opponents on twitter
+Added ability to cancel your opponents on Twitter
 Solid Snake no longer keeps you waiting
 Added the konami code
 Added IF Prototype LQ-84i from Metal Gear Rising Revengeance as a companion
 Replaced all voicelines with "Bear Seek Seek Lest"
 Game now runs on GoldSrc
-Deleted the entirety of Florida from the game files
-Deleted the entirety of France from the game files
+Deleted the entirety of Florida from the game files --exclusive_group=delcountry
+Deleted the entirety of France from the game files --exclusive_group=delcountry
 Added a surprise encounter with Patches
 You can now hire Saul Goodman as a lawyer
 Added the V.A.T.S. system from the Fallout series
-<<<<<<< HEAD
 Decreased the chances of predictable chimps, as they were too predictable --exclusive_group=chimps
 Now uses all of the memory avaliable
 Now has a chance for an infinite loading screen, of which you can't exit
@@ -200,11 +199,9 @@ halves your FPS for each kill
 New map: Rainbow Road
 Turtles can now die by paper straws
 Now plays Bad Apple
-=======
 Fixed a bug where players could get out of bounds by bribing the developers  --exclusive_group=out_of_bounds
 Players can now get out of bounds if they ask nicely --exclusive_group=out_of_bounds
 Added Jeff Bezos as a playable character
 Added Microsoft Clippy as a playable character
 Removed all instances of prime numbers from the game
 Added the 10th dentist as a miniboss
->>>>>>> f9e54bd42be3b2f14dc99e85cc825a4be808f574
