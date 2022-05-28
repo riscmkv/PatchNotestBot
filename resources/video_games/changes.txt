@@ -12,7 +12,6 @@ You can now have sex in-game--exclusive_group=<Sex>
 Removed sex --exclusive_group=<Sex>
 New competitive fishing minigame (with permadeath)
 Added Twitch Integration
-New Battle Royale mode
 New difficulty level: Ultra-Nightmare --exclusive_group=difficulty
 New difficulty level: Very Easy --exclusive_group=difficulty
 Now requires Games for Windows Live (GFWL)
@@ -143,11 +142,11 @@ Removed support for devices over one year old
 New feature: clutch or kick
 Game now deletes itself if NFTs are detected on your PC --exclusive_group=nft
 Added jumpscares
+New Battle Royale mode --exclusive_group=new_gamemode
 New gamemode: boys vs girls --exclusive_group=new_gamemode
 New gamemode: bedwars --exclusive_group=new_gamemode
 New gamemode: spin the bottle --exclusive_group=new_gamemode
 New gamemode: rap battle --exclusive_group=new_gamemode
-New gamemode: baseball --exclusive_group=new_gamemode
 Game now detects speedrunners and ruins their RNG
 Now partnering with coolmathgames.com
 Added Mexico, but only the top half
@@ -397,14 +396,15 @@ New dungeon: Gamer Den --exclusive_group=new_dungeon
 New dungeon: Spirit Temple --exclusive_group=new_dungeon
 New dungeon: Aggro Crag --exclusive_group=new_dungeon
 New dungeon: Mom's Basement --exclusive_group=new_dungeon
-New dungeon: Beach Cave --exclusive_group=new_dungeon
+Babies are no longer edible
 Civilian casualty penalties no longer apply if you are wearing a police officer's uniform
 Dodge roll removed
 Difficulty options locked behind clearing the game
 Drinking alcohol while playing will now report the player to the police for GUI (gaming under the influence)
-Players will now receive a box of chocolates in the mail from their romance option on Valentine's Day
+Players will now receive a real-life box of chocolates in the mail from their romance option on Valentine's Day
 Fuck it. Unleashed the gnomes
 Added polygamy based on player feedback
 New grappling hook mechanic
 Enemies have a 1% chance to play the Wilhelm Scream instead of their normal death sound
+Daily chocolate reward raised to 20 grams
 Character creator: Added penis 3
