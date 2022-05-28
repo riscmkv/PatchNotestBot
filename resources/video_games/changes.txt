@@ -61,7 +61,9 @@ Hired an exterminator to remove bugs from the code --exclusive_group=bugs
 Reintroduced bugs to code to help pollinate plants in game ecosystem --exclusive_group=bugs
 Removed easy mode
 Added 50% damage penalty to French players
-Added secret dog ending
+Added secret dog ending --exclusive_group=ending
+Added alternative “Not poggers” ending as based on user feedback --exclusive_group=ending
+Removed all endings. The game never ends, sucker! --exclusive_group=ending
 Players can no longer do that speedrunning trick that saves time
 Added Alf (in pog form)
 Delayed game due to Miyamoto quote
@@ -161,7 +163,10 @@ Players connected via Wi-Fi are now automatically banned
 You can now commit war crimes
 Added “racist” as character trait
 removed herobrien
-Added steering wheel support
+Added steering wheel support --exclusive_group=new_controller
+Added DK Bongos support --exclusive_group=new_controller
+Added Guitar Hero controller support --exclusive_group=new_controller
+Added Kinect support --exclusive_group=new_controller
 Added Braille as a selectable language --exclusive_group=braille
 Removed weekly garbage pickup (changed to monthly)
 Glue bottles can now be drank from
@@ -178,7 +183,6 @@ Removed racially insensitive pinup pen pineapple reference
 Added optional “snuggle time” mini game
 Decreased probability of Random Chimp Event by 6.3% based on user feedback --exclusive_group=chimpevent
 Added new Art Deco style character models
-Added alternative “Not poggers” ending as based on user feedback
 Presence of 12 gauge shotgun increased
 Increased error message specificity and crash frequency
 Switched to Unreal Engine for photorealistic hair support
@@ -311,6 +315,7 @@ Major story changes: game is now part of the Sharkboy and Lavagirl Cinematic Uni
 Major story changes: the bad guy was you all along --exclusive_group=plot
 Story mode has been entirely removed --exclusive_group=plot
 Funky new music contributed by Hideki Naganuma --exclusive_group=new_music
+Epic new banger contributed by Camellia --exclusive_group=new_music
 New soundtrack by ZUN --exclusive_group=new_music
 New soundtrack by C418 --exclusive_group=new_music
 New soundtrack by Lena Raine --exclusive_group=new_music
@@ -318,6 +323,7 @@ New soundtrack by David Wise --exclusive_group=new_music
 New soundtrack by Siivagunner --exclusive_group=new_music
 New catchy theme song performed by Kero Kero Bonito --exclusive_group=new_music
 New catchy theme song performed by Hatsune Miku --exclusive_group=new_music
+New catchy theme song performed by Rick Astley --exclusive_group=new_music
 All music replaced with kazoo solos --exclusive_group=new_music
 All music replaced with Otamatone solos --exclusive_group=new_music
 All music now performed by the middle school orchestra down the street from the development studio --exclusive_group=new_music
@@ -334,6 +340,7 @@ Loading screen tips now give advice on how to commit felonies --exclusive_group=
 Loading screen tips replaced with dril tweets --exclusive_group=tips
 Loading screen tips replaced with memes from 2012 --exclusive_group=tips
 Loading screen tips now emotionally abuse the player --exclusive_group=tips
+New loading screen tip: "Did you know that world-renowned writer Stephen King was once hit by a car? Just something to consider." --exclusive_group=tips
 En passant is now forced
 Fall damage now applied randomly per save file
 Pineapple added to all in-game pizzas
@@ -384,4 +391,20 @@ Game now automatically plays copyrighted music if a streaming setup is detected
 Added motion controls
 Accessibility: buildings in-game now have wheelchair ramps
 Flowerpots now have fewer polygons
+Changing your character's gender after completing Chapter 3 unlocks the double jump ability
+Typing "uwu" in chat will now automatically charge a $350 fine to the player's credit card
+New dungeon: Gamer Den --exclusive_group=new_dungeon
+New dungeon: Spirit Temple --exclusive_group=new_dungeon
+New dungeon: Aggro Crag --exclusive_group=new_dungeon
+New dungeon: Mom's Basement --exclusive_group=new_dungeon
+New dungeon: Beach Cave --exclusive_group=new_dungeon
+Civilian casualty penalties no longer apply if you are wearing a police officer's uniform
+Dodge roll removed
+Difficulty options locked behind clearing the game
+Drinking alcohol while playing will now report the player to the police for GUI (gaming under the influence)
+Players will now receive a box of chocolates in the mail from their romance option on Valentine's Day
+Fuck it. Unleashed the gnomes
+Added polygamy based on player feedback
+New grappling hook mechanic
+Enemies have a 1% chance to play the Wilhelm Scream instead of their normal death sound
 Character creator: Added penis 3
