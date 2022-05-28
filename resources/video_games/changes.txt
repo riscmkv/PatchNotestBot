@@ -49,7 +49,6 @@ Throwing your controller against the wall now wins you the game
 Fixed overflow error when players are doing things
 Updated localization files
 Removed Mario as a playable character
-Added Battle Royale mode --exclusive_group=new_gamemode
 Games deletes itself if you die
 New pachinko minigame
 Now rated M for graphic nudity and violence
@@ -383,6 +382,7 @@ Changed a character's name to Alexa so that voice lines trigger players' Amazon 
 Audio volume will now automatically increase if game detects noise from player's arguing parents
 Eating food too frequently will now make your character obese
 All characters now wear skirts or dresses
+Bikini armor made exclusive to male characters
 AI made more intelligent and more artificial
 Added Tenor GIF Keyboard support to text chat
 Added more snakes to remedy issue where game did not have enough snakes
