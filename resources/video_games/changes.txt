@@ -155,6 +155,7 @@ Fixed Ronald Reagan's spawn location
 Replaced entire games audio library with Postal Dude voicelines --exclusive_group=voicelines
 Fixed an issue where all voicelines were replaced with the screams of the damned --exclusive_group=voicelines
 Fixed an issue where all voicelines were delivered in a Scottish accent --exclusive_group=voicelines
+Replaced all voicelines with "Bear Seek Seek Lest" --exclusive_group=voicelines
 "George Washington" enemy added
 Fixed babies spontaneously combusting --exclusive_group=babies_on_fire
 Fixed babies not spontaneously combusting --exclusive_group=babies_on_fire
@@ -220,7 +221,6 @@ Added ability to cancel your opponents on Twitter
 Solid Snake no longer keeps you waiting
 Added the konami code
 Added IF Prototype LQ-84i from Metal Gear Rising Revengeance as a companion
-Replaced all voicelines with "Bear Seek Seek Lest"
 Game now runs on GoldSrc
 Deleted the entirety of Florida from the game files --exclusive_group=delcountry
 Deleted the entirety of France from the game files --exclusive_group=delcountry
