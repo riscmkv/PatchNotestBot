@@ -50,7 +50,7 @@ Throwing your controller against the wall now wins you the game
 Fixed overflow error when players are doing things
 Updated localization files
 Removed Mario as a playable character
-Added Battle Royale mode
+Added Battle Royale mode --exclusive_group=new_gamemode
 Games deletes itself if you die
 New pachinko minigame
 Now rated M for graphic nudity and violence
@@ -81,8 +81,10 @@ Furries can no longer pet the dog --exclusive_group=pet_dog
 Cat owners can no longer pet the dog --exclusive_group=pet_dog
 Accessibility: Dyslexic players can now pet the god --exclusive_group=pet_dog
 All dogs have been replaced with doge
+All dragons have been replaced with Thomas the Tank Engine
 Added Master Chief from the Halo series as a companion
 Added Gordon Freeman from the Half Life series as a companion
+Now featuring Dante from the Devil May Cry series
 Fixed bug where players in France didn't die immediately
 Reset all Steam achievements
 Now includes advertisements from our partners between levels
@@ -142,6 +144,8 @@ Added jumpscares
 New gamemode: boys vs girls --exclusive_group=new_gamemode
 New gamemode: bedwars --exclusive_group=new_gamemode
 New gamemode: spin the bottle --exclusive_group=new_gamemode
+New gamemode: rap battle --exclusive_group=new_gamemode
+New gamemode: baseball --exclusive_group=new_gamemode
 Game now detects speedrunners and ruins their RNG
 Now partnering with coolmathgames.com
 Added Mexico, but only the top half
@@ -151,7 +155,9 @@ Replaced entire games audio library with Postal Dude voicelines --exclusive_grou
 Fixed an issue where all voicelines were replaced with the screams of the damned --exclusive_group=voicelines
 Fixed an issue where all voicelines were delivered in a Scottish accent --exclusive_group=voicelines
 "George Washington" enemy added
-Fixed babies spontaneously combusting
+Fixed babies spontaneously combusting --exclusive_group=babies_on_fire
+Fixed babies not spontaneously combusting --exclusive_group=babies_on_fire
+Players connected via Wi-Fi are now automatically banned
 You can now commit war crimes
 Added “racist” as character trait
 removed herobrien
@@ -289,15 +295,20 @@ The final boss is now voiced by Giancarlo Esposito --exclusive_group=voice_actin
 The final boss is now voiced by Keanu Reeves --exclusive_group=voice_acting_finalboss
 The final boss is now voiced by Will Smith --exclusive_group=voice_acting_finalboss
 New English localization by Ted Woolsey
-Major story changes; game's plot now centers around killing Chaos --exclusive_group=plot
-Major story changes; game's plot now centers around starting an idol pop group --exclusive_group=plot
-Major story changes; game's plot is now a slice-of-life comedy --exclusive_group=plot
-Major story changes; game is now just like Persona 5 --exclusive_group=plot
+Major story changes: game's plot now centers around killing Chaos --exclusive_group=plot
+Major story changes: game's plot now centers around starting an idol pop group --exclusive_group=plot
+Major story changes: game's plot is now a slice-of-life comedy --exclusive_group=plot
+Major story changes: game's plot is now transgender allegory --exclusive_group=plot
+Major story changes: characters now respawn after they die --exclusive_group=plot
+Major story changes: game is now just like Persona 5 --exclusive_group=plot
 Story mode is now presented in 4.5 hours of cutscenes with no gameplay --exclusive_group=plot
-Major story changes; game's plot is now a bad rip-off of Skyrim --exclusive_group=plot
-Major story changes; game's new plot written by Tetsuya Nomura --exclusive_group=plot
-Major story changes; text added after final boss stating "and it was all a dream. The End" --exclusive_group=plot
-Major story changes; game is now part of the Sharkboy and Lavagirl Cinematic Universe --exclusive_group=plot
+Story mode removed from main game; now available as DLC for $29.99 --exclusive_group=plot
+Major story changes: game's plot is now a bad rip-off of Skyrim --exclusive_group=plot
+Major story changes: game's new plot written by Tetsuya Nomura --exclusive_group=plot
+Major story changes: text added after final boss stating "and they all lived happily ever after. The End" --exclusive_group=plot
+Major story changes: text added after final boss stating "and it was all a dream. The End" --exclusive_group=plot
+Major story changes: game is now part of the Sharkboy and Lavagirl Cinematic Universe --exclusive_group=plot
+Major story changes: the bad guy was you all along --exclusive_group=plot
 Story mode has been entirely removed --exclusive_group=plot
 Funky new music contributed by Hideki Naganuma --exclusive_group=new_music
 New soundtrack by ZUN --exclusive_group=new_music
@@ -315,6 +326,7 @@ Added the Spider-Man 2 Pizza Theme --exclusive_group=new_music
 Kickstarter backers can now press the L, M, A, and O keys simultaneously to instantly win a match --exclusive_group=kickstarter
 Kickstarter backers now start with an equivalent amount of money that they donated --exclusive_group=kickstarter
 Kickstarter backers' money has been stolen by the developers --exclusive_group=kickstarter
+All NPCs now named after Kickstarter backers --exclusive_group=kickstarter
 Discord integration: players can now use their furry RP server emoji in chat
 Removed support for displays with 16:9 aspect ratios
 Added new boss based on the anime adaptation
@@ -348,12 +360,13 @@ New artstyle inspired by Bubsy 3D --exclusive_group=artstyle
 New artstyle inspired by Mortal Kombat II --exclusive_group=artstyle
 New artstyle inspired by Pokémon Red and Blue --exclusive_group=artstyle
 New artstyle inspired by my 5-year-old son's crayon drawings --exclusive_group=artstyle
-In-game buildings now have a "creepy" and "wet" value
+In-game buildings now have "creepy" and "wet" values
 Game now changes your default browser to Microsoft Edge
 Game now encrypts your hard drive until you score 200 million points on Lunatic difficulty
 All character models replaced with Among Us characters
 Typing "sus" in chat now instantly bans your account
-Added fanservice
+Added fanservice --exclusive_group=fanservice
+Removed fanservice --exclusive_group=fanservice
 Added cute new animal characters so we can sell plushies of them
 Fixed bug where game's developers had a healthy work-life balance
 Added a tracking cookie pop-up message to comply with EU data privacy regulations
@@ -361,4 +374,14 @@ All references to hot dogs now refer to them as glizzys
 Players can now click on cookies
 Balance changes made with guidance from TierZoo
 Changed a character's name to Alexa so that voice lines trigger players' Amazon Echo devices
+Audio volume will now automatically increase if game detects noise from player's arguing parents
+Eating food too frequently will now make your character obese
+All characters now wear skirts or dresses
+AI made more intelligent and more artificial
+Added Tenor GIF Keyboard support to text chat
+Added more snakes to remedy issue where game did not have enough snakes
+Game now automatically plays copyrighted music if a streaming setup is detected
+Added motion controls
+Accessibility: buildings in-game now have wheelchair ramps
+Flowerpots now have fewer polygons
 Character creator: Added penis 3
