@@ -8,7 +8,7 @@
 #
 # to you string. This will allow only one to be added per tweet
 
-You can now have sex in-game--exclusive_group=<Sex>
+You can now have sex in-game --exclusive_group=<Sex>
 Removed sex --exclusive_group=<Sex>
 New competitive fishing minigame (with permadeath)
 Added Twitch Integration
@@ -189,7 +189,7 @@ Added a surprise encounter with Patches
 You can now hire Saul Goodman as a lawyer
 Added the V.A.T.S. system from the Fallout series
 Decreased the chances of predictable chimps, as they were too predictable --exclusive_group=chimps
-Now uses all of the memory avaliable
+Now uses all available memory
 Now has a chance for an infinite loading screen, of which you can't exit
 If the game detects you're speedrunning, stops you from doing so
 Healing effects no longer work if you have less than 80% of your total hp
