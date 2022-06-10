@@ -12,12 +12,11 @@ You can now have sex in-game --exclusive_group=<Sex>
 Removed sex --exclusive_group=<Sex>
 New competitive fishing minigame (with permadeath)
 Added Twitch Integration
-New Battle Royale mode
 New difficulty level: Ultra-Nightmare --exclusive_group=difficulty
 New difficulty level: Very Easy --exclusive_group=difficulty
 Now requires Games for Windows Live (GFWL)
 Added Macrotransactions
-Added Microsoft excel integration
+Added Microsoft Excel integration
 Maynard James Keenan now makes an in-game appearance
 Heelys are now an unlockable item
 Fixed bug where female players have 79 health for every 100 health male players have
@@ -25,7 +24,7 @@ Ben Shapiro & Dennis Prager are now unlockable characters
 If you die in game, your cat dies in real life
 2004 Dodge Caravan © now an unlockable vehicle
 Added hyperrealistic gore
-Now canonically part of the half-life universe
+Now canonically part of the Half-Life universe
 Added pog emote
 Added real time farming strategy minigame
 Game is now both Kosher & Halal (but no longer vegan)
@@ -50,14 +49,19 @@ Throwing your controller against the wall now wins you the game
 Fixed overflow error when players are doing things
 Updated localization files
 Removed Mario as a playable character
-Added Battle Royale mode
 Games deletes itself if you die
 New pachinko minigame
 Now rated M for graphic nudity and violence
-Fixed bugs
+Fixed bugs --exclusive_group=bugs
+Added bugs --exclusive_group=bugs
+Added new bugs so we can fix them on a later update --exclusive_group=bugs
+Hired an exterminator to remove bugs from the code --exclusive_group=bugs
+Reintroduced bugs to code to help pollinate plants in game ecosystem --exclusive_group=bugs
 Removed easy mode
 Added 50% damage penalty to French players
-Added secret dog ending
+Added secret dog ending --exclusive_group=ending
+Added alternative “Not poggers” ending as based on user feedback --exclusive_group=ending
+Removed all endings. The game never ends, sucker! --exclusive_group=ending
 Players can no longer do that speedrunning trick that saves time
 Added Alf (in pog form)
 Delayed game due to Miyamoto quote
@@ -68,11 +72,19 @@ Accessibility: Added Braille reader support for blind users --exclusive_group=br
 Accessibility: Removed numbers, they are replaced by "zero", "one", "some", and "a lot"
 Added farting and burping noise detection for the in-game voice chat
 The cake, however, is still a lie
-Now compatible with Samsung smart fridges
 The game now automatically notifies the police in your area for each confirmed kill.
-You can now pet the dog
+You can now pet the dog --exclusive_group=pet_dog
+You can no longer pet the dog --exclusive_group=pet_dog
+The dog can now pet you --exclusive_group=pet_dog
+Dogs can now pet other dogs --exclusive_group=pet_dog
+Furries can no longer pet the dog --exclusive_group=pet_dog
+Cat owners can no longer pet the dog --exclusive_group=pet_dog
+Accessibility: Dyslexic players can now pet the god --exclusive_group=pet_dog
+All dogs have been replaced with doge
+All dragons have been replaced with Thomas the Tank Engine
 Added Master Chief from the Halo series as a companion
 Added Gordon Freeman from the Half Life series as a companion
+Now featuring Dante from the Devil May Cry series
 Fixed bug where players in France didn't die immediately
 Reset all Steam achievements
 Now includes advertisements from our partners between levels
@@ -80,26 +92,24 @@ Added Nukes
 Added a pop-up to remind the players that they suck whenever they die
 Increases the chances of a random chimp event by 26.8% --exclusive_group=chimpevent
 New sounds for when the player interacts with Obama
-Automatically screenshots and reuploads a random NFT every 20 seconds
-You can now die by Snu Snu.
-Introducing: Taxes
+Automatically screenshots and reuploads a random NFT every 20 seconds --exclusive_group=nft
+Funged tokens --exclusive_group=nft
+You can now die by Snu Snu
+Introducing: Taxes --exclusive_group=taxes
+Players who acquire too much money will now be taken to court for tax evasion --exclusive_group=taxes
 Added The Skeletor
 Fixed an issue so that NPCs now vomit at acceptable levels
 It is no longer possible to 'Try for Baby' with the Grim Reaper
 "Become enemies with child" wish no longer appears
-Now Available on GameBoy Color.
-Random Crit Chance increased --exclusive_group=crithit
-Random Crit removed --exclusive_group=crithit
+Random crit chance increased --exclusive_group=crithit
+Random crits removed --exclusive_group=crithit
 Added Rocket Jumping
 Now featuring the Gabe Newell Kill Announcer
 Added the Heavy Update
-Removed support for devices over one year old
-Added NES support
-Added bugs
 Disabled access for new users
 New insta-ban for not saying GG after a match
 Microtransactions can now be paid with V-Bucks
-Players are now limited to 1hr of playtime a day (please go outside)
+Players are now limited to 1 hour of play time per day (please go outside)
 Added NPC "Maneater Mildred"
 Players with an anime PFP are instantly banned --exclusive_group=animepfp
 Players with an anime PFP recieve double XP --exclusive_group=animepfp
@@ -107,38 +117,63 @@ Some physical copies are laced with Anthrax (manufacturing accident)
 New map: gm_construct --exclusive_group=newgmmap
 New map: gm_7eleven --exclusive_group=newgmmap
 New map: gm_flatgrass --exclusive_group=newgmmap
-New map: Final Destination
-New Map: 2Fort --exclusive_group=newgsrcmap
-New Map: de_dust2 --exclusive_group=newgsrcmap
-New Map: Blood Gulch
+New map: Final Destination --exclusive_group=newssbmap
+New map: Small Battlefield --exclusive_group=newssbmap
+New map: Hanenbow --exclusive_group=newssbmap
+New map: 75m --exclusive_group=newssbmap
+New map: Poké Floats --exclusive_group=newssbmap
+New map: 2Fort --exclusive_group=newgsrcmap
+New map: de_dust2 --exclusive_group=newgsrcmap
+New map: Blood Gulch
+New map: Rainbow Road --exclusive_group=newmariokartmap
+New map: Coconut Mall --exclusive_group=newmariokartmap
+New map: the backrooms
+New map: DashCon ball pit
 Added the entirety of Brazil
-New platform supported: ti-84
-New platform supported: Ouya
+Now available only on GameBoy Color. --exclusive_group=platform
+Added NES support --exclusive_group=platform
+Added TI-84 support --exclusive_group=platform
+Added Ouya support --exclusive_group=platform
+Added SouljaGame support --exclusive_group=platform
+Added Samsung Smart Fridge support --exclusive_group=platform
+Game no longer available on Steam; added to Epic Games Store instead
+Removed support for devices over one year old
 New feature: clutch or kick
 Game now deletes itself if NFTs are detected on your PC --exclusive_group=nft
 Added jumpscares
-New gamemode: boys vs girls
+New Battle Royale mode --exclusive_group=new_gamemode
+New gamemode: boys vs girls --exclusive_group=new_gamemode
+New gamemode: bedwars --exclusive_group=new_gamemode
+New gamemode: spin the bottle --exclusive_group=new_gamemode
+New gamemode: rap battle --exclusive_group=new_gamemode
 Game now detects speedrunners and ruins their RNG
 Now partnering with coolmathgames.com
 Added Mexico, but only the top half
 Game now does not save data if you are over 45 years old
 Fixed Ronald Reagan's spawn location
-Replaced entire games audio library with Postal Dude voicelines
+Replaced entire games audio library with Postal Dude voicelines --exclusive_group=voicelines
+Fixed an issue where all voicelines were replaced with the screams of the damned --exclusive_group=voicelines
+Fixed an issue where all voicelines were delivered in a Scottish accent --exclusive_group=voicelines
+Replaced all voicelines with "Bear Seek Seek Lest" --exclusive_group=voicelines
 "George Washington" enemy added
-fixed babies spontaneously combusting
-you can now commit war crimes
-added “racist” as character trait
+Fixed babies spontaneously combusting --exclusive_group=babies_on_fire
+Fixed babies not spontaneously combusting --exclusive_group=babies_on_fire
+Players connected via Wi-Fi are now automatically banned
+You can now commit war crimes
+Added “racist” as character trait
 removed herobrien
-added steering wheel support
-added “braille” as a selectable language --exclusive_group=braille
-removed weekly garbage pickup (changed to monthly)
+Added steering wheel support --exclusive_group=new_controller
+Added DK Bongos support --exclusive_group=new_controller
+Added Guitar Hero controller support --exclusive_group=new_controller
+Added Kinect support --exclusive_group=new_controller
+Added Braille as a selectable language --exclusive_group=braille
+Removed weekly garbage pickup (changed to monthly)
 Glue bottles can now be drank from
 Added guns
 Removed violence
-Water now has a 1% chance to have lead poisoning
+Water now has a 1% chance to cause lead poisoning
 Friends and family will no longer worry about you for playing twelve hours a day
 Fixed a Geneva Convention violation
-Added new bugs so we can fix them on a later update
 Now requires biometric scan to determine if user's body is ready
 Added Twitter API integration
 Added new slider for breast sizes
@@ -147,7 +182,6 @@ Removed racially insensitive pinup pen pineapple reference
 Added optional “snuggle time” mini game
 Decreased probability of Random Chimp Event by 6.3% based on user feedback --exclusive_group=chimpevent
 Added new Art Deco style character models
-Added alternative “Not poggers” ending as based on user feedback
 Presence of 12 gauge shotgun increased
 Increased error message specificity and crash frequency
 Switched to Unreal Engine for photorealistic hair support
@@ -155,10 +189,13 @@ Removed esoteric references to the number 42
 Incorporated orphanage DLC as a new free level
 Added hyper realistic toothbrush
 Changed present emoticons from unicode code point to ASCII
-Added new “protagonist” gender option
-Decreased wonton violence in tutorial section
+Added new “protagonist” gender option --exclusive_group=gender
+Added new "political" gender option --exclusive_group=gender
+Decreased wanton violence in tutorial section --exclusive_group=wonton
+Decreased wonton violence in tutorial section by making soup dumplings invincible --exclusive_group=wonton
 Shortened length of game proportional to player skill level
-Removed language support for English
+Removed language support for English --exclusive_group=english
+English language option now uses British English --exclusive_group=english
 Now mines crypto using your hardware sending it right to our wallet
 You can now kill a random player by clicking an avatar flying over the menu screen
 Automatically restarts your computer whenever you die
@@ -171,6 +208,8 @@ Fixed a rare bug when clothes wouldn't render for some reason, leaving your oppo
 The game now requires administrator permissions and camera access to monitor you 24/7 to make sure you don't Google the codes
 Two-Factor Authentication now required to respawn --exclusive_group=verification
 "I am not a bot" verification now required to respawn --exclusive_group=verification
+Players must now say "Doritos™ Dew™ it right!" to connect to an online match --exclusive_group=verification
+Players must now drink a Mtn Dew™ verification can to connect to an online match --exclusive_group=verification
 Prevented a case where toddlers were allowed to escape a lot and wander freely.
 The Murphy Bed has been made less lethal.
 Added AK-47 to starting inventory
@@ -181,22 +220,27 @@ Added ability to cancel your opponents on Twitter
 Solid Snake no longer keeps you waiting
 Added the konami code
 Added IF Prototype LQ-84i from Metal Gear Rising Revengeance as a companion
-Replaced all voicelines with "Bear Seek Seek Lest"
 Game now runs on GoldSrc
 Deleted the entirety of Florida from the game files --exclusive_group=delcountry
 Deleted the entirety of France from the game files --exclusive_group=delcountry
 Added a surprise encounter with Patches
-You can now hire Saul Goodman as a lawyer
+You can now hire Saul Goodman as a lawyer --exclusive_group=lawyer
+You can now hire Phoenix Wright as a lawyer --exclusive_group=lawyer
+You can now hire Atticus Finch as a lawyer --exclusive_group=lawyer
 Added the V.A.T.S. system from the Fallout series
+Added the junction system from Final Fantasy VIII
+Added the morality system from Mass Effect
+Added the London System from chess (however, using it results in an instant ban)
 Decreased the chances of predictable chimps, as they were too predictable --exclusive_group=chimps
+Now uses all of the memory available
+Now has a chance for an infinite loading screen, from which you can't exit
 Now uses all available memory
 Now has a chance for an infinite loading screen, of which you can't exit
 If the game detects you're speedrunning, stops you from doing so
 Healing effects no longer work if you have less than 80% of your total hp
 Kill streaks now automatically activate when near a group of civilians
 Accessibility: Option to disable audio entirely for deaf people
-halves your FPS for each kill
-New map: Rainbow Road
+Players' FPS is now halved for each kill
 Turtles can now die by paper straws
 Now plays Bad Apple
 Fixed a bug where players could get out of bounds by bribing the developers  --exclusive_group=out_of_bounds
@@ -205,6 +249,174 @@ Added Jeff Bezos as a playable character
 Added Microsoft Clippy as a playable character
 Removed all instances of prime numbers from the game
 Added the 10th dentist as a miniboss
+Added Laugh Tracks
+Fixed a rare bug where laugh tracks were played instead of death sounds when an orphan dies.
+John F. Kennedy is now a unlockable character.
+Added Stem Player Integration.
+Removed Donda album from radio.
+Fixes rare bug where the game isn't funny.
+New Map: Tiananmen Square
+Added language support for Pirate English --exclusive_group=new_language
+Added language support for ASL --exclusive_group=new_language
+Added language support for Lojban --exclusive_group=new_language
+Added language support for Klingon --exclusive_group=new_language
+Added language support for badly translated Scots --exclusive_group=new_language
+Added language support for Pig Latin --exclusive_group=new_language
+Added language support for C++ --exclusive_group=new_language
+Minor text changes
+Changed font to Comic Sans --exclusive_group=font
+Changed font to Wingdings --exclusive_group=font
+Changed font to Papyrus --exclusive_group=font
+Changed font to Impact --exclusive_group=font
+Fixed exploit where players could earn infinite money by putting down the game and getting a job
+Players now have a 1% chance to trip when they start running
+Buffed the "Touch Grass" skill
+Nerfed the "Insult Mom" skill
+All references to death now state the character in question went to a farm upstate
+Communism update: all players' money has now been distributed evenly --exclusive_group=economics
+Capitalism update: all players' money has now been distributed among the top 100 players on the leaderboard --exclusive_group=economics
+Ponzi scheme update: all players' money has now been funneled up to the 10 oldest accounts --exclusive_group=economics
+Hyperinflation update: all players' money is now worthless --exclusive_group=economics
+All players given a "Participation Award" achievement
+Swearing in chat is now mandatory
+Added random encounters
+Removed wavedashing
+Nerfed Pichu again
+Buffed Little Mac, but it won't matter
+Driving vehicles will now cause players' CPU temperatures to rise because of global warming
+Crabgrass will now grow on players' CPUs while playing
+Added raytracing support
+Text chat posts will be submitted to Turnitin to check for plagiarism
+Nerfed Morbius; he can now only morb one enemy at a time
+Made Purple Guy a slightly more vivid shade of purple
+CPU opponents now type "lol git gud scrub" in chat when they kill a player
+Removed the Quit Game button on the main menu
+Added Luigi as a romance option --exclusive_group=romance
+Added Kirby as a romance option --exclusive_group=romance
+Added Professor Oak as a romance option --exclusive_group=romance
+Added Nicholas Cage as a romance option --exclusive_group=romance
+Added Crazy Dave as a romance option --exclusive_group=romance
+Added Garfield as a romance option --exclusive_group=romance
+The player character is now voiced by Chris Pratt --exclusive_group=voice_acting_player
+The player character is now voiced by Matt Mercer --exclusive_group=voice_acting_player
+The player character is now voiced by Yuri Lowenthal --exclusive_group=voice_acting_player
+The final boss is now voiced by ProZD --exclusive_group=voice_acting_finalboss
+The final boss is now voiced by Jack Black --exclusive_group=voice_acting_finalboss
+The final boss is now voiced by Giancarlo Esposito --exclusive_group=voice_acting_finalboss
+The final boss is now voiced by Keanu Reeves --exclusive_group=voice_acting_finalboss
+The final boss is now voiced by Will Smith --exclusive_group=voice_acting_finalboss
+New English localization by Ted Woolsey
+Major story changes: game's plot now centers around killing Chaos --exclusive_group=plot
+Major story changes: game's plot now centers around starting an idol pop group --exclusive_group=plot
+Major story changes: game's plot is now a slice-of-life comedy --exclusive_group=plot
+Major story changes: game's plot is now transgender allegory --exclusive_group=plot
+Major story changes: characters now respawn after they die --exclusive_group=plot
+Major story changes: game is now just like Persona 5 --exclusive_group=plot
+Story mode is now presented in 4.5 hours of cutscenes with no gameplay --exclusive_group=plot
+Story mode removed from main game; now available as DLC for $29.99 --exclusive_group=plot
+Major story changes: game's plot is now a bad rip-off of Skyrim --exclusive_group=plot
+Major story changes: game's new plot written by Tetsuya Nomura --exclusive_group=plot
+Major story changes: text added after final boss stating "and they all lived happily ever after. The End" --exclusive_group=plot
+Major story changes: text added after final boss stating "and it was all a dream. The End" --exclusive_group=plot
+Major story changes: game is now part of the Sharkboy and Lavagirl Cinematic Universe --exclusive_group=plot
+Major story changes: the bad guy was you all along --exclusive_group=plot
+Story mode has been entirely removed --exclusive_group=plot
+Funky new music contributed by Hideki Naganuma --exclusive_group=new_music
+Epic new banger contributed by Camellia --exclusive_group=new_music
+New soundtrack by ZUN --exclusive_group=new_music
+New soundtrack by C418 --exclusive_group=new_music
+New soundtrack by Lena Raine --exclusive_group=new_music
+New soundtrack by David Wise --exclusive_group=new_music
+New soundtrack by Siivagunner --exclusive_group=new_music
+New catchy theme song performed by Kero Kero Bonito --exclusive_group=new_music
+New catchy theme song performed by Hatsune Miku --exclusive_group=new_music
+New catchy theme song performed by Rick Astley --exclusive_group=new_music
+All music replaced with kazoo solos --exclusive_group=new_music
+All music replaced with Otamatone solos --exclusive_group=new_music
+All music now performed by the middle school orchestra down the street from the development studio --exclusive_group=new_music
+New soundtrack inspired by Sonic Chronicles: The Dark Brotherhood --exclusive_group=new_music
+Added the Spider-Man 2 Pizza Theme --exclusive_group=new_music
+Kickstarter backers can now press the L, M, A, and O keys simultaneously to instantly win a match --exclusive_group=kickstarter
+Kickstarter backers now start with an equivalent amount of money that they donated --exclusive_group=kickstarter
+Kickstarter backers' money has been stolen by the developers --exclusive_group=kickstarter
+All NPCs now named after Kickstarter backers --exclusive_group=kickstarter
+Discord integration: players can now use their furry RP server emoji in chat
+Removed support for displays with 16:9 aspect ratios
+Added new boss based on the anime adaptation
+Loading screen tips now give advice on how to commit felonies --exclusive_group=tips
+Loading screen tips replaced with dril tweets --exclusive_group=tips
+Loading screen tips replaced with memes from 2012 --exclusive_group=tips
+Loading screen tips now emotionally abuse the player --exclusive_group=tips
+New loading screen tip: "Did you know that world-renowned writer Stephen King was once hit by a car? Just something to consider." --exclusive_group=tips
+En passant is now forced
+Fall damage now applied randomly per save file
+Pineapple added to all in-game pizzas
+Game now prints your browser history in chat when you die
+Added lootboxes --exclusive_group=lootboxes
+Added lootboxes, but only for players with a history of gambling addiction --exclusive_group=lootboxes
+Added lootboxes, but only if you've complained about them on Reddit --exclusive_group=lootboxes
+Added lootboxes, but only if you believe in Santa Claus --exclusive_group=lootboxes
+Lootboxes now made from 50% recycled plastic --exclusive_group=lootboxes
+Replaced lootboxes with a character gacha --exclusive_group=lootboxes
+Contents of text chat will now be automatically forwarded to your therapist
+All in-game artwork replaced with clip art --exclusive_group=artstyle
+New pixel art artstyle --exclusive_group=artstyle
+New vaporwave artstyle --exclusive_group=artstyle
+New cubist artstyle --exclusive_group=artstyle
+New impressionist artstyle --exclusive_group=artstyle
+New anime artstyle --exclusive_group=artstyle
+New hyper-realistic artstyle --exclusive_group=artstyle
+New pencil-drawing artstyle --exclusive_group=artstyle
+New hyper-realistic artstyle --exclusive_group=artstyle
+New artstyle inspired by The Simpsons --exclusive_group=artstyle
+New artstyle inspired by South Park --exclusive_group=artstyle
+New artstyle inspired by Bubsy 3D --exclusive_group=artstyle
+New artstyle inspired by Mortal Kombat II --exclusive_group=artstyle
+New artstyle inspired by Pokémon Red and Blue --exclusive_group=artstyle
+New artstyle inspired by my 5-year-old son's crayon drawings --exclusive_group=artstyle
+In-game buildings now have "creepy" and "wet" values
+Game now changes your default browser to Microsoft Edge
+Game now encrypts your hard drive until you score 200 million points on Lunatic difficulty
+All character models replaced with Among Us characters
+Typing "sus" in chat now instantly bans your account
+Added fanservice --exclusive_group=fanservice
+Removed fanservice --exclusive_group=fanservice
+Added cute new animal characters so we can sell plushies of them
+Fixed bug where game's developers had a healthy work-life balance
+Added a tracking cookie pop-up message to comply with EU data privacy regulations
+All references to hot dogs now refer to them as glizzys
+Players can now click on cookies
+Balance changes made with guidance from TierZoo
+Changed a character's name to Alexa so that voice lines trigger players' Amazon Echo devices
+Audio volume will now automatically increase if game detects noise from player's arguing parents
+Eating food too frequently will now make your character obese
+All characters now wear skirts or dresses
+Bikini armor made exclusive to male characters
+AI made more intelligent and more artificial
+Added Tenor GIF Keyboard support to text chat
+Added more snakes to remedy issue where game did not have enough snakes
+Game now automatically plays copyrighted music if a streaming setup is detected
+Added motion controls
+Accessibility: buildings in-game now have wheelchair ramps
+Flowerpots now have fewer polygons
+Changing your character's gender after completing Chapter 3 unlocks the double jump ability
+Typing "uwu" in chat will now automatically charge a $350 fine to the player's credit card
+New dungeon: Gamer Den --exclusive_group=new_dungeon
+New dungeon: Spirit Temple --exclusive_group=new_dungeon
+New dungeon: Aggro Crag --exclusive_group=new_dungeon
+New dungeon: Mom's Basement --exclusive_group=new_dungeon
+Babies are no longer edible
+Civilian casualty penalties no longer apply if you are wearing a police officer's uniform
+Dodge roll removed
+Difficulty options locked behind clearing the game
+Drinking alcohol while playing will now report the player to the police for GUI (gaming under the influence)
+Players will now receive a real-life box of chocolates in the mail from their romance option on Valentine's Day
+Fuck it. Unleashed the gnomes
+Added polygamy based on player feedback
+New grappling hook mechanic
+Enemies have a 1% chance to play the Wilhelm Scream instead of their normal death sound
+Daily chocolate reward raised to 20 grams
+Character creator: Added penis 3
 Added brief and insincere apology to Leroy for leaking his personal information in-game
 "Become Enemies with Child" wish no longer appears
 It is no longer possible to Try for Baby with the Grim Reaper
