@@ -249,6 +249,13 @@ Added Jeff Bezos as a playable character
 Added Microsoft Clippy as a playable character
 Removed all instances of prime numbers from the game
 Added the 10th dentist as a miniboss
+Added Laugh Tracks
+Fixed a rare bug where laugh tracks were played instead of death sounds when an orphan dies.
+John F. Kennedy is now a unlockable character.
+Added Stem Player Integration.
+Removed Donda album from radio.
+Fixes rare bug where the game isn't funny.
+New Map: Tiananmen Square
 Added language support for Pirate English --exclusive_group=new_language
 Added language support for ASL --exclusive_group=new_language
 Added language support for Lojban --exclusive_group=new_language
