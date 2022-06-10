@@ -205,4 +205,8 @@ Added Jeff Bezos as a playable character
 Added Microsoft Clippy as a playable character
 Removed all instances of prime numbers from the game
 Added the 10th dentist as a miniboss
-Removed lazy programming--exclusive_group=Idontgetpaidenoughforthis
+Added brief and insincere apology to Leroy for leaking his personal information in-game
+"Become Enemies with Child" wish no longer appears
+It is no longer possible to Try for Baby with the Grim Reaper
+The Grim Reaper will no longer be prevented from reaping due to band affiliation
+Removed lazy programming --exclusive_group=Idontgetpaidenoughforthis
