@@ -8,7 +8,7 @@
 #
 # to you string. This will allow only one to be added per tweet
 
-You can now have sex in-game--exclusive_group=<Sex>
+You can now have sex in-game --exclusive_group=<Sex>
 Removed sex --exclusive_group=<Sex>
 New competitive fishing minigame (with permadeath)
 Added Twitch Integration
@@ -234,6 +234,8 @@ Added the London System from chess (however, using it results in an instant ban)
 Decreased the chances of predictable chimps, as they were too predictable --exclusive_group=chimps
 Now uses all of the memory available
 Now has a chance for an infinite loading screen, from which you can't exit
+Now uses all available memory
+Now has a chance for an infinite loading screen, of which you can't exit
 If the game detects you're speedrunning, stops you from doing so
 Healing effects no longer work if you have less than 80% of your total hp
 Kill streaks now automatically activate when near a group of civilians
@@ -408,3 +410,8 @@ New grappling hook mechanic
 Enemies have a 1% chance to play the Wilhelm Scream instead of their normal death sound
 Daily chocolate reward raised to 20 grams
 Character creator: Added penis 3
+Added brief and insincere apology to Leroy for leaking his personal information in-game
+"Become Enemies with Child" wish no longer appears
+It is no longer possible to Try for Baby with the Grim Reaper
+The Grim Reaper will no longer be prevented from reaping due to band affiliation
+Removed lazy programming --exclusive_group=Idontgetpaidenoughforthis
