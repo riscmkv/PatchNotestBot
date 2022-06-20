@@ -422,3 +422,20 @@ Added brief and insincere apology to Leroy for leaking his personal information 
 It is no longer possible to Try for Baby with the Grim Reaper
 The Grim Reaper will no longer be prevented from reaping due to band affiliation
 Removed lazy programming --exclusive_group=Idontgetpaidenoughforthis
+Banned the phrase "happy holidays" from text chat
+New dungeon: Generic Office Building --exclusive_group=new_dungeon
+Cory Baxter from Cory in the House is now a playable character
+Added memetic kill agent outside of bounds to punish players for leaving game boundaries
+Added new mechanic, where before an attack, you can do a bottle flip. If performed correctly, you get a critical hit on your attack
+Removed YandereDev from credits
+Added weapon: Baseball Bat With Knife Taped On It
+Added item: Hot Chip
+Trolls from Homestuck are now a playable race
+Questline related to lemonade tasting has been added
+Allan please add details
+Due to copyright issues, Mickey Mouse has been removed
+Added advertisements for Raid: Shadow Legends to the game due to sponsorship deal  --exclusive_group=advertisement
+Added advertisements for Twitch.tv to the game due to sponsorship deal --exclusive_group=advertisement
+Added advertisements for NordVPN to the game due to sponsorship deal --exclusive_group=advertisement
+Added advertisements for Dislyte to the game due to sponsorship deal --exclusive_group=advertisement
+Added advertisements for Genshin Impact to the game due to sponsorship deal --exclusive_group=advertisement
