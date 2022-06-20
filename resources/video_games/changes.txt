@@ -14,7 +14,9 @@ New competitive fishing minigame (with permadeath)
 Added Twitch Integration
 New difficulty level: Ultra-Nightmare --exclusive_group=difficulty
 New difficulty level: Very Easy --exclusive_group=difficulty
+New difficulty level: Asian --exclusive_group=difficulty
 Now requires Games for Windows Live (GFWL)
+Now requires Rockstar Games Launcher (RGL)
 Added Macrotransactions
 Added Microsoft Excel integration
 Maynard James Keenan now makes an in-game appearance
@@ -59,6 +61,8 @@ Hired an exterminator to remove bugs from the code --exclusive_group=bugs
 Reintroduced bugs to code to help pollinate plants in game ecosystem --exclusive_group=bugs
 Removed easy mode
 Added 50% damage penalty to French players
+Added +50% Invisibility to Vietnamese players
+Added secret dog ending
 Added secret dog ending --exclusive_group=ending
 Added alternative “Not poggers” ending as based on user feedback --exclusive_group=ending
 Removed all endings. The game never ends, sucker! --exclusive_group=ending
@@ -89,6 +93,7 @@ Fixed bug where players in France didn't die immediately
 Reset all Steam achievements
 Now includes advertisements from our partners between levels
 Added Nukes
+Added 12 new songs by C418
 Added a pop-up to remind the players that they suck whenever they die
 Increases the chances of a random chimp event by 26.8% --exclusive_group=chimpevent
 New sounds for when the player interacts with Obama
@@ -205,7 +210,7 @@ When trading, you now get what you traded for
 Severely nerfed killing abilities of bees, no more world-wide carnage when you get too close to a beehive
 You no longer start lit on fire
 Fixed a rare bug when clothes wouldn't render for some reason, leaving your opponents naked
-The game now requires administrator permissions and camera access to monitor you 24/7 to make sure you don't Google the codes
+The game now requires administrator permissions and camera access to monitor you 24/7 to make sure you don't Google the code
 Two-Factor Authentication now required to respawn --exclusive_group=verification
 "I am not a bot" verification now required to respawn --exclusive_group=verification
 Players must now say "Doritos™ Dew™ it right!" to connect to an online match --exclusive_group=verification
