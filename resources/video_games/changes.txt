@@ -10,6 +10,7 @@
 
 You can now have sex in-game --exclusive_group=<Sex>
 Removed sex --exclusive_group=<Sex>
+Removed mod support
 New competitive fishing minigame (with permadeath)
 Added Twitch Integration
 New difficulty level: Ultra-Nightmare --exclusive_group=difficulty
@@ -37,13 +38,12 @@ Game is no longer available in France & Quebec
 Accessibility: Added Gaelic, Ixcatec, Basque, and Belarusian subtitles
 Accessibility: Removed color blind mode
 Added NFT support --exclusive_group=nft
-Added New Funky Mode --exclusive_group=funkymode
+Added New Funky Mode
 Added VR support
 Added Walter White as a playable character 
 Added Among Us intergration
-Removed Herobrine
+Removed Herobrine --exclusive_group=herobrine
 Removed British people
-Featuring Dante from the Devil May Cry series
 Now compatible with Windows 98
 Re-added Hot Coffee minigame
 Final boss now does emotional damage
@@ -59,19 +59,17 @@ Added bugs --exclusive_group=bugs
 Added new bugs so we can fix them on a later update --exclusive_group=bugs
 Hired an exterminator to remove bugs from the code --exclusive_group=bugs
 Reintroduced bugs to code to help pollinate plants in game ecosystem --exclusive_group=bugs
+Made all existing bugs features --exclusive_group=bugs
 Removed easy mode
 Added 50% damage penalty to French players
 Added +50% Invisibility to Vietnamese players
-Added secret dog ending
 Added secret dog ending --exclusive_group=ending
 Added alternative “Not poggers” ending as based on user feedback --exclusive_group=ending
 Removed all endings. The game never ends, sucker! --exclusive_group=ending
-Players can no longer do that speedrunning trick that saves time
+Players can no longer do that speedrunning trick that saves time --exclusive_group=speedrunning
 Added Alf (in pog form)
 Delayed game due to Miyamoto quote
-Removed Herobrine
 Removed all references of the British
-Now with new Funky Mode --exclusive_group=funkymode
 Accessibility: Added Braille reader support for blind users --exclusive_group=braille
 Accessibility: Removed numbers, they are replaced by "zero", "one", "some", and "a lot"
 Added farting and burping noise detection for the in-game voice chat
@@ -93,7 +91,7 @@ Fixed bug where players in France didn't die immediately
 Reset all Steam achievements
 Now includes advertisements from our partners between levels
 Added Nukes
-Added 12 new songs by C418
+Added 12 new songs by C418 --exclusive_group=new_music
 Added a pop-up to remind the players that they suck whenever they die
 Increases the chances of a random chimp event by 26.8% --exclusive_group=chimpevent
 New sounds for when the player interacts with Obama
@@ -113,7 +111,8 @@ Now featuring the Gabe Newell Kill Announcer
 Added the Heavy Update
 Disabled access for new users
 New insta-ban for not saying GG after a match
-Microtransactions can now be paid with V-Bucks
+Microtransactions can now be paid with V-Bucks --exclusive_group=microtransactions
+Microtransactions can now be paid with Robux --exclusive_group=microtransactions
 Players are now limited to 1 hour of play time per day (please go outside)
 Added NPC "Maneater Mildred"
 Players with an anime PFP are instantly banned --exclusive_group=animepfp
@@ -122,16 +121,22 @@ Some physical copies are laced with Anthrax (manufacturing accident)
 New map: gm_construct --exclusive_group=newgmmap
 New map: gm_7eleven --exclusive_group=newgmmap
 New map: gm_flatgrass --exclusive_group=newgmmap
+New map: gm_bigcity --exclusive_group=newgmmap
 New map: Final Destination --exclusive_group=newssbmap
+New map: Big Battlefield --exclusive_group=newssbmap
 New map: Small Battlefield --exclusive_group=newssbmap
 New map: Hanenbow --exclusive_group=newssbmap
 New map: 75m --exclusive_group=newssbmap
 New map: Poké Floats --exclusive_group=newssbmap
+New map: The Great Cave Offensive --exclusive_group=newssbmap
 New map: 2Fort --exclusive_group=newgsrcmap
 New map: de_dust2 --exclusive_group=newgsrcmap
 New map: Blood Gulch
 New map: Rainbow Road --exclusive_group=newmariokartmap
 New map: Coconut Mall --exclusive_group=newmariokartmap
+New map: Green Hill Zone --exclusive_group=sonicmap
+New map: Chemical Plant Zone --exclusive_group=sonicmap
+New map: Sky Sanctuary Zone --exclusive_group=sonicmap
 New map: the backrooms
 New map: DashCon ball pit
 Added the entirety of Brazil
@@ -141,6 +146,7 @@ Added TI-84 support --exclusive_group=platform
 Added Ouya support --exclusive_group=platform
 Added SouljaGame support --exclusive_group=platform
 Added Samsung Smart Fridge support --exclusive_group=platform
+Added KFConsole support --exclusive_group=platform
 Game no longer available on Steam; added to Epic Games Store instead
 Removed support for devices over one year old
 New feature: clutch or kick
@@ -151,7 +157,8 @@ New gamemode: boys vs girls --exclusive_group=new_gamemode
 New gamemode: bedwars --exclusive_group=new_gamemode
 New gamemode: spin the bottle --exclusive_group=new_gamemode
 New gamemode: rap battle --exclusive_group=new_gamemode
-Game now detects speedrunners and ruins their RNG
+New gamemode: skill battle --exclusive_group=new_gamemode
+Game now detects speedrunners and ruins their RNG --exclusive_group=speedrunning
 Now partnering with coolmathgames.com
 Added Mexico, but only the top half
 Game now does not save data if you are over 45 years old
@@ -166,11 +173,12 @@ Fixed babies not spontaneously combusting --exclusive_group=babies_on_fire
 Players connected via Wi-Fi are now automatically banned
 You can now commit war crimes
 Added “racist” as character trait
-removed herobrien
+removed herobrien --exclusive_group=herobrine
 Added steering wheel support --exclusive_group=new_controller
 Added DK Bongos support --exclusive_group=new_controller
 Added Guitar Hero controller support --exclusive_group=new_controller
 Added Kinect support --exclusive_group=new_controller
+Added Wii Remote support --exclusive_group=new_controller
 Added Braille as a selectable language --exclusive_group=braille
 Removed weekly garbage pickup (changed to monthly)
 Glue bottles can now be drank from
@@ -236,12 +244,11 @@ Added the V.A.T.S. system from the Fallout series
 Added the junction system from Final Fantasy VIII
 Added the morality system from Mass Effect
 Added the London System from chess (however, using it results in an instant ban)
+Added Shovel Knight as a guest character
 Decreased the chances of predictable chimps, as they were too predictable --exclusive_group=chimps
-Now uses all of the memory available
-Now has a chance for an infinite loading screen, from which you can't exit
 Now uses all available memory
 Now has a chance for an infinite loading screen, of which you can't exit
-If the game detects you're speedrunning, stops you from doing so
+If the game detects you're speedrunning, stops you from doing so --exclusive_group=speedrunning
 Healing effects no longer work if you have less than 80% of your total hp
 Kill streaks now automatically activate when near a group of civilians
 Accessibility: Option to disable audio entirely for deaf people
@@ -286,8 +293,10 @@ All players given a "Participation Award" achievement
 Swearing in chat is now mandatory
 Added random encounters
 Removed wavedashing
+Removed tripping
 Nerfed Pichu again
 Buffed Little Mac, but it won't matter
+Removed Steve's meat
 Driving vehicles will now cause players' CPU temperatures to rise because of global warming
 Crabgrass will now grow on players' CPUs while playing
 Added raytracing support
@@ -302,6 +311,8 @@ Added Professor Oak as a romance option --exclusive_group=romance
 Added Nicholas Cage as a romance option --exclusive_group=romance
 Added Crazy Dave as a romance option --exclusive_group=romance
 Added Garfield as a romance option --exclusive_group=romance
+Added Dr. Robotnik as a romance option --exclusive_group=romance
+Added King Dedede as a romance option --exclusive_group=romance
 The player character is now voiced by Chris Pratt --exclusive_group=voice_acting_player
 The player character is now voiced by Matt Mercer --exclusive_group=voice_acting_player
 The player character is now voiced by Yuri Lowenthal --exclusive_group=voice_acting_player
@@ -332,13 +343,15 @@ New soundtrack by ZUN --exclusive_group=new_music
 New soundtrack by C418 --exclusive_group=new_music
 New soundtrack by Lena Raine --exclusive_group=new_music
 New soundtrack by David Wise --exclusive_group=new_music
-New soundtrack by Siivagunner --exclusive_group=new_music
+New soundtrack by SiIvaGunner --exclusive_group=new_music
+New soundtrack by Tee Lopes --exclusive_group=new_music
 New catchy theme song performed by Kero Kero Bonito --exclusive_group=new_music
 New catchy theme song performed by Hatsune Miku --exclusive_group=new_music
 New catchy theme song performed by Rick Astley --exclusive_group=new_music
 All music replaced with kazoo solos --exclusive_group=new_music
 All music replaced with Otamatone solos --exclusive_group=new_music
 All music now performed by the middle school orchestra down the street from the development studio --exclusive_group=new_music
+All music has been recreated using the Genesis soundchip --exclusive_group=new_music
 New soundtrack inspired by Sonic Chronicles: The Dark Brotherhood --exclusive_group=new_music
 Added the Spider-Man 2 Pizza Theme --exclusive_group=new_music
 Kickstarter backers can now press the L, M, A, and O keys simultaneously to instantly win a match --exclusive_group=kickstarter
@@ -393,6 +406,7 @@ All references to hot dogs now refer to them as glizzys
 Players can now click on cookies
 Balance changes made with guidance from TierZoo
 Changed a character's name to Alexa so that voice lines trigger players' Amazon Echo devices
+The protagonist no longer has a name, name them yourself
 Audio volume will now automatically increase if game detects noise from player's arguing parents
 Eating food too frequently will now make your character obese
 All characters now wear skirts or dresses
@@ -401,7 +415,8 @@ AI made more intelligent and more artificial
 Added Tenor GIF Keyboard support to text chat
 Added more snakes to remedy issue where game did not have enough snakes
 Game now automatically plays copyrighted music if a streaming setup is detected
-Added motion controls
+Added motion controls --exclusive_group=control_scheme
+Added tilt controls --exclusive_group=control_scheme
 Accessibility: buildings in-game now have wheelchair ramps
 Flowerpots now have fewer polygons
 Changing your character's gender after completing Chapter 3 unlocks the double jump ability
@@ -411,6 +426,7 @@ New dungeon: Spirit Temple --exclusive_group=new_dungeon
 New dungeon: Aggro Crag --exclusive_group=new_dungeon
 New dungeon: Mom's Basement --exclusive_group=new_dungeon
 Babies are no longer edible
+Removed the ability to eat the dolphins
 Civilian casualty penalties no longer apply if you are wearing a police officer's uniform
 Dodge roll removed
 Difficulty options locked behind clearing the game
@@ -432,7 +448,9 @@ New dungeon: Generic Office Building --exclusive_group=new_dungeon
 Cory Baxter from Cory in the House is now a playable character
 Added memetic kill agent outside of bounds to punish players for leaving game boundaries
 Added new mechanic, where before an attack, you can do a bottle flip. If performed correctly, you get a critical hit on your attack
+Added a small chance for the player's party to begin a battle with a gun-based All-Out Attack
 Removed YandereDev from credits
+Removed Denuvo (this isn't in the official patchnotes)
 Added weapon: Baseball Bat With Knife Taped On It
 Added item: Hot Chip
 Trolls from Homestuck are now a playable race
