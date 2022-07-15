@@ -444,3 +444,4 @@ Added advertisements for Twitch.tv to the game due to sponsorship deal --exclusi
 Added advertisements for NordVPN to the game due to sponsorship deal --exclusive_group=advertisement
 Added advertisements for Dislyte to the game due to sponsorship deal --exclusive_group=advertisement
 Added advertisements for Genshin Impact to the game due to sponsorship deal --exclusive_group=advertisement
+Added OpenGL support and removed Vulkan support
