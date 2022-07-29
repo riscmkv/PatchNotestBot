@@ -443,6 +443,12 @@ Added brief and insincere apology to Leroy for leaking his personal information 
 It is no longer possible to Try for Baby with the Grim Reaper
 The Grim Reaper will no longer be prevented from reaping due to band affiliation
 Removed lazy programming --exclusive_group=Idontgetpaidenoughforthis
+Grass Patch n°43323 now has improved physics
+Improved the money laundering tools for the in-game marketplace
+The game now reminds the player to NOT get up and continue playing every 2 hours
+You can now buy the Limited-Hyper-Platinium Edition for $40,000 so you can show people you're rich AF
+To improve stability, the player can now only move forward.
+The unkillable NPCs can now kill you with a single slap if you try to hurt them.
 Banned the phrase "happy holidays" from text chat
 New dungeon: Generic Office Building --exclusive_group=new_dungeon
 Cory Baxter from Cory in the House is now a playable character
