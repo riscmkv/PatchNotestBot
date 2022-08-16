@@ -10,6 +10,7 @@
 
 You can now have sex in-game --exclusive_group=<Sex>
 Removed sex --exclusive_group=<Sex>
+You can now have a little nap in-game
 Removed mod support
 New competitive fishing minigame (with permadeath)
 Added Twitch Integration
@@ -23,6 +24,7 @@ Added Microsoft Excel integration
 Maynard James Keenan now makes an in-game appearance
 Heelys are now an unlockable item
 Fixed bug where female players have 79 health for every 100 health male players have
+Removed male pattern baldness
 Ben Shapiro & Dennis Prager are now unlockable characters
 If you die in game, your cat dies in real life
 2004 Dodge Caravan © now an unlockable vehicle
@@ -33,6 +35,7 @@ Added real time farming strategy minigame
 Game is now both Kosher & Halal (but no longer vegan)
 Now compatible with most blood glucose monitors
 Now supports the Game Boy Pedisedate
+Game is now waterproof
 Look for XP codes on the back of Crown Prince Canned Sardines © tins!
 Game is no longer available in France & Quebec
 Accessibility: Added Gaelic, Ixcatec, Basque, and Belarusian subtitles
@@ -87,17 +90,23 @@ All dragons have been replaced with Thomas the Tank Engine
 Added Master Chief from the Halo series as a companion
 Added Gordon Freeman from the Half Life series as a companion
 Now featuring Dante from the Devil May Cry series
+Now featuring Alan Greenspan from the Federal Reserve of the United States
 Fixed bug where players in France didn't die immediately
 Reset all Steam achievements
 Now includes advertisements from our partners between levels
 Added Nukes
 Added 12 new songs by C418 --exclusive_group=new_music
+Added 'Baby Shark' --exclusive_group=new_music
 Added a pop-up to remind the players that they suck whenever they die
 Increases the chances of a random chimp event by 26.8% --exclusive_group=chimpevent
 New sounds for when the player interacts with Obama
 Automatically screenshots and reuploads a random NFT every 20 seconds --exclusive_group=nft
 Funged tokens --exclusive_group=nft
 You can now die by Snu Snu
+You can now die by Puff Puff
+You can now die if you are killed
+But thou mustn't necessarily, anymore
+Removed exploit allowing players to kill Lord British
 Introducing: Taxes --exclusive_group=taxes
 Players who acquire too much money will now be taken to court for tax evasion --exclusive_group=taxes
 Added The Skeletor
@@ -118,6 +127,7 @@ Added NPC "Maneater Mildred"
 Players with an anime PFP are instantly banned --exclusive_group=animepfp
 Players with an anime PFP recieve double XP --exclusive_group=animepfp
 Some physical copies are laced with Anthrax (manufacturing accident)
+Physical copies of the game now have a fresh new taste
 New map: gm_construct --exclusive_group=newgmmap
 New map: gm_7eleven --exclusive_group=newgmmap
 New map: gm_flatgrass --exclusive_group=newgmmap
@@ -139,6 +149,7 @@ New map: Chemical Plant Zone --exclusive_group=sonicmap
 New map: Sky Sanctuary Zone --exclusive_group=sonicmap
 New map: the backrooms
 New map: DashCon ball pit
+New map: Delaware
 Added the entirety of Brazil
 Now available only on GameBoy Color. --exclusive_group=platform
 Added NES support --exclusive_group=platform
@@ -147,6 +158,7 @@ Added Ouya support --exclusive_group=platform
 Added SouljaGame support --exclusive_group=platform
 Added Samsung Smart Fridge support --exclusive_group=platform
 Added KFConsole support --exclusive_group=platform
+Removed PowerPC support --exclusive_group=platform
 Game no longer available on Steam; added to Epic Games Store instead
 Removed support for devices over one year old
 New feature: clutch or kick
@@ -223,6 +235,7 @@ Two-Factor Authentication now required to respawn --exclusive_group=verification
 "I am not a bot" verification now required to respawn --exclusive_group=verification
 Players must now say "Doritos™ Dew™ it right!" to connect to an online match --exclusive_group=verification
 Players must now drink a Mtn Dew™ verification can to connect to an online match --exclusive_group=verification
+Pause menu now pauses gameplay
 Prevented a case where toddlers were allowed to escape a lot and wander freely.
 The Murphy Bed has been made less lethal.
 Added AK-47 to starting inventory
@@ -244,6 +257,8 @@ Added the V.A.T.S. system from the Fallout series
 Added the junction system from Final Fantasy VIII
 Added the morality system from Mass Effect
 Added the London System from chess (however, using it results in an instant ban)
+Added Big Head mode --exclusive_group=bighead
+Big Head mode had been enabled by default; heads are now the originally intended size --exclusive_group=bighead
 Added Shovel Knight as a guest character
 Decreased the chances of predictable chimps, as they were too predictable --exclusive_group=chimps
 Now uses all available memory
@@ -251,7 +266,9 @@ Now has a chance for an infinite loading screen, of which you can't exit
 If the game detects you're speedrunning, stops you from doing so --exclusive_group=speedrunning
 Healing effects no longer work if you have less than 80% of your total hp
 Kill streaks now automatically activate when near a group of civilians
+Friendly NPCs no longer aggro
 Accessibility: Option to disable audio entirely for deaf people
+Sounds now play at their intended volume rather than max volume
 Players' FPS is now halved for each kill
 Turtles can now die by paper straws
 Now plays Bad Apple
@@ -321,7 +338,11 @@ The final boss is now voiced by Jack Black --exclusive_group=voice_acting_finalb
 The final boss is now voiced by Giancarlo Esposito --exclusive_group=voice_acting_finalboss
 The final boss is now voiced by Keanu Reeves --exclusive_group=voice_acting_finalboss
 The final boss is now voiced by Will Smith --exclusive_group=voice_acting_finalboss
-New English localization by Ted Woolsey
+New English localization by Ted Woolsey --exclusive_group=newlocalization
+New English localization by Google Translate --exclusive_group=newlocalization
+New English localization by Babelfish --exclusive_group=newlocalization
+New English localization by DeepL --exclusive_group=newlocalization
+New 'Literal' English translation added --exclusive_group=newlocalization
 Major story changes: game's plot now centers around killing Chaos --exclusive_group=plot
 Major story changes: game's plot now centers around starting an idol pop group --exclusive_group=plot
 Major story changes: game's plot is now a slice-of-life comedy --exclusive_group=plot
@@ -350,6 +371,7 @@ New catchy theme song performed by Hatsune Miku --exclusive_group=new_music
 New catchy theme song performed by Rick Astley --exclusive_group=new_music
 All music replaced with kazoo solos --exclusive_group=new_music
 All music replaced with Otamatone solos --exclusive_group=new_music
+All music replaced with the healing sounds of the Tibetan Singing Bowls --exclusive_group=new_music
 All music now performed by the middle school orchestra down the street from the development studio --exclusive_group=new_music
 All music has been recreated using the Genesis soundchip --exclusive_group=new_music
 New soundtrack inspired by Sonic Chronicles: The Dark Brotherhood --exclusive_group=new_music
@@ -361,6 +383,7 @@ All NPCs now named after Kickstarter backers --exclusive_group=kickstarter
 Discord integration: players can now use their furry RP server emoji in chat
 Removed support for displays with 16:9 aspect ratios
 Added new boss based on the anime adaptation
+Added the full text of the novelization of the game to the 'Extras' menu
 Loading screen tips now give advice on how to commit felonies --exclusive_group=tips
 Loading screen tips replaced with dril tweets --exclusive_group=tips
 Loading screen tips replaced with memes from 2012 --exclusive_group=tips
@@ -399,8 +422,11 @@ All character models replaced with Among Us characters
 Typing "sus" in chat now instantly bans your account
 Added fanservice --exclusive_group=fanservice
 Removed fanservice --exclusive_group=fanservice
+Intensified fanservice --exclusive_group=fanservice
 Added cute new animal characters so we can sell plushies of them
 Fixed bug where game's developers had a healthy work-life balance
+Removed 'boss button' as playing video games while at work is illegal
+Added 'Naive Angel Mode' which adds layers of clothing to scantily-clad characters
 Added a tracking cookie pop-up message to comply with EU data privacy regulations
 All references to hot dogs now refer to them as glizzys
 Players can now click on cookies
@@ -417,6 +443,7 @@ Added more snakes to remedy issue where game did not have enough snakes
 Game now automatically plays copyrighted music if a streaming setup is detected
 Added motion controls --exclusive_group=control_scheme
 Added tilt controls --exclusive_group=control_scheme
+Stick camera controls are now forced to inverted as is correct --exclusive_group=control_scheme
 Accessibility: buildings in-game now have wheelchair ramps
 Flowerpots now have fewer polygons
 Changing your character's gender after completing Chapter 3 unlocks the double jump ability
@@ -435,6 +462,7 @@ Players will now receive a real-life box of chocolates in the mail from their ro
 Fuck it. Unleashed the gnomes
 Added polygamy based on player feedback
 New grappling hook mechanic
+Now featuring EA SPORTS Game Face
 Enemies have a 1% chance to play the Wilhelm Scream instead of their normal death sound
 Daily chocolate reward raised to 20 grams
 Character creator: Added penis 3
@@ -453,14 +481,18 @@ Banned the phrase "happy holidays" from text chat
 New dungeon: Generic Office Building --exclusive_group=new_dungeon
 Cory Baxter from Cory in the House is now a playable character
 Added memetic kill agent outside of bounds to punish players for leaving game boundaries
+Removed text fragment that reportedly 'activated sleeper agents'
 Added new mechanic, where before an attack, you can do a bottle flip. If performed correctly, you get a critical hit on your attack
 Added a small chance for the player's party to begin a battle with a gun-based All-Out Attack
 Removed YandereDev from credits
 Removed Denuvo (this isn't in the official patchnotes)
 Added weapon: Baseball Bat With Knife Taped On It
+Added weapon: Nail Bat
+Added Chapped Lips debuff and Chapstick item
 Added item: Hot Chip
 Trolls from Homestuck are now a playable race
 Questline related to lemonade tasting has been added
+In-game journal entries now begin with a one-word summary of the main character's current mood
 Allan please add details
 Due to copyright issues, Mickey Mouse has been removed
 Added advertisements for Raid: Shadow Legends to the game due to sponsorship deal  --exclusive_group=advertisement
