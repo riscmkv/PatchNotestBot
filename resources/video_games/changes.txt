@@ -56,7 +56,7 @@ Updated localization files
 Removed Mario as a playable character
 Games deletes itself if you die
 New pachinko minigame
-Now rated M for graphic nudity and violence
+Now rated M for graphic nudity and violence --exclusive_group=violence
 Fixed bugs --exclusive_group=bugs
 Added bugs --exclusive_group=bugs
 Added new bugs so we can fix them on a later update --exclusive_group=bugs
@@ -195,7 +195,7 @@ Added Braille as a selectable language --exclusive_group=braille
 Removed weekly garbage pickup (changed to monthly)
 Glue bottles can now be drank from
 Added guns
-Removed violence
+Removed violence --exclusive_group=violence
 Water now has a 1% chance to cause lead poisoning
 Friends and family will no longer worry about you for playing twelve hours a day
 Fixed a Geneva Convention violation
@@ -216,8 +216,8 @@ Added hyper realistic toothbrush
 Changed present emoticons from unicode code point to ASCII
 Added new “protagonist” gender option --exclusive_group=gender
 Added new "political" gender option --exclusive_group=gender
-Decreased wanton violence in tutorial section --exclusive_group=wonton
-Decreased wonton violence in tutorial section by making soup dumplings invincible --exclusive_group=wonton
+Decreased wonton violence in tutorial section --exclusive_group=wonton --exclusive_group=violence
+Decreased wonton violence in tutorial section by making soup dumplings invincible --exclusive_group=wonton --exclusive_group=violence
 Shortened length of game proportional to player skill level
 Removed language support for English --exclusive_group=english
 English language option now uses British English --exclusive_group=english
